@@ -1,0 +1,5 @@
+Git Learning Notes:
+- git init: Initialize repo
+- git add . : Stage files
+- git commit -m "msg": Commit changes
+- git push: Upload to GitHub
