@@ -3,3 +3,7 @@ Git Learning Notes:
 - git add . : Stage files
 - git commit -m "msg": Commit changes
 - git push: Upload to GitHub
+- git checkout -b branch: Create and switch to new branch
+- git merge branch: Merge branch into current
+- git log: View commit history
+- git diff: See changes
